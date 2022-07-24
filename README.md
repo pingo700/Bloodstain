@@ -10,6 +10,6 @@
    <img width="180" src="https://lichess1.org/assets/logo/lichess-pad12.svg" />
 </div>
 <div align="center">
-   <h3><p>Projeto para análise de partidas via API lichess.<p></h3>
+   <h3><p>Análise de partidas via API lichess.<p></h3>
 </div>
 
